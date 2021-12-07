@@ -1,0 +1,102 @@
+﻿Inici: setembre 2021
+Llistat Tècniques Vis
+
+
+Aquest llistat està fet per a ser aplicat a la PAC2 del curs 2021-22 (UOC - Màster Ciència de dades - Visualització de dades M2.959, M2.859.
+
+
+Les tècniques de visualització estan repartides en tres grups. Hi ha una descripció subjectiva d’aquesta divisió. Les agrupacions, per tant, no són estrictes ni cal que ho siguin. En la PAC2 caldrà seleccionar a l’atzar tres tècniques (una de cada grup) per a cada estudiant.
+
+
+Podeu contribuir amb més tècniques. Per a comentaris més concrets: jaume nualart jnualart@uoc.edu
+
+
+
+
+NOTA Per a repassar les técniques possibles es pot fer una mirada a dues fonts:
+1) https://datavizproject.com/#
+2) https://www.youtube.com/playlist?list=PLfv89tPxlTiVIrwuSBCISiBaGSH1CJR5-
+GRUP I: 
+Els més “coneguts”- Els que podríem trobar en un mitjà de comunicació generalista.
+
+
+101. Bar chart
+102. Pie chart
+103. Line chart
+104. Histograms
+105. Area Chart
+106. Sankey Diagrams
+107. Pyramid Charts
+108. Stacked Bar Graphs
+109. Tag cloud / Word cloud
+110. Treemap
+111. Infografia
+112. Diagrama de dispersió o scatterplot
+113. Bubble chart
+114. Timeline
+115. Circle Packing
+116- Heatmap
+117. Dot Density Map
+118. Cartograms
+
+
+GRUP II
+Habituals i coneguts en àmbits  específics i d’experts. Usats en camps espècies, però no generals.
+
+
+201. Small Multiple
+202. Venn Diagrams
+203. Correlation Matrices
+204. Choropleth Map
+205. Radar Charts
+206. Icon Chart
+207. Dot Matrix Chart
+208. Flow Map
+209. Stream Graph
+210. Parallel Coordinates Plot
+211. Box plot
+212. Sunburst
+213. Voronoy diagram
+214. Circular dendrogram
+215. Linear dendrogram
+216. Gantt chart
+217. Alluvial Diagram
+218. Arc Diagram
+219. Diagrama de xarxa
+220. Matrix Plot
+221. Gauge diagram
+222. Isotype Chart
+223. Waffle Chart
+224. Waterfall Chart
+225. Slope chart
+226. Candlestick Chart
+227. Proportional Symbol Map
+228. Nightingale Chart
+229. Force-Directed Graph
+GRUP III
+Menys coneguts. La majoria desconeguts fins i tot per experts. Poc usats, poc vistos.
+
+
+301. Chord Diagrams
+302. Rain cloud Plots
+303. OHLC Charts
+304. Marimekko Chart
+305. Rose Chart
+306. Hexagon Binning
+307. Spiral Plot
+308. Hyperbolic Trees
+309. Isotype & Unit charts
+310. Bullet Graphs
+311. Mavericks and Heretics
+312. Ridgeline Charts
+313. Beeswarm plot
+314. Contour plot
+315. Convex hull
+316. Horizon graph
+317. Violin plot
+318. Connected Scatterplots
+319. Ridgeline Chart
+320. Tile grid Map
+320. UpSet: Visualizing Intersecting Sets
+321. Be Swarm Chart
+322.
