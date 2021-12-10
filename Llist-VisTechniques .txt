@@ -3,25 +3,25 @@ Llistat Tècniques Vis
 
 
 (CAT)
-Les tècniques de visualització estan repartides en tres grups. Hi ha una descripció subjectiva d’aquesta divisió. Les agrupacions, per tant, no són estrictes ni cal que ho siguin. En la PAC2 caldrà seleccionar a l’atzar tres tècniques (una de cada grup) per a cada estudiant.
-Podeu contribuir amb més tècniques. Per a comentaris més concrets: jaume nualart jnualart@uoc.edu
+Les tècniques de visualització estan repartides en tres grups. Hi ha una descripció subjectiva d’aquesta divisió. Les agrupacions, per tant, no són estrictes ni cal que ho siguin. Podeu contribuir amb més tècniques. Per a comentaris més concrets: jaume nualart jnualart@uoc.edu
 
-NOTA Per a repassar les técniques possibles es pot fer una mirada a dues fonts:
+NOTA - Per a repassar les técniques possibles es pot fer una mirada a dues fonts:
+
 1) https://datavizproject.com/#
 2) https://www.youtube.com/playlist?list=PLfv89tPxlTiVIrwuSBCISiBaGSH1CJR5-
-GRUP I: 
-Els més “coneguts”- Els que podríem trobar en un mitjà de comunicació generalista.
 
+GRUP I: Les més “conegudes”- Les que podríem trobar en un mitjà de comunicació generalista.
 -----------------------
-(ESP)
-Las técnicas de visualización se distribuyen en tres grupos. Hay una descripción subjetiva de esta división. Las agrupaciones, por lo tanto, no son estrictas o necesitan ser. En PAC2, se seleccionarán tres técnicas (una en cada grupo) para cada estudiante.
-Puedes aportar más técnicas. Para comentarios más específicos: Jaume Nualart JnualArt@uoc.edu
 
-Nota Para revisar las técnicas posibles, puede echar un vistazo a dos fuentes:
+(ESP)
+Las técnicas de visualización se distribuyen en tres grupos. Hay una descripción subjetiva de esta división. Las agrupaciones, por lo tanto, no son estrictas ni necesitan serlo. Puedes aportar más técnicas. Para comentarios más específicos: Jaume Nualart JnualArt@uoc.edu
+
+NOTA - Para revisar las técnicas posibles, puede echar un vistazo a dos fuentes:
+
 1) https://datavizproject.com/#
 2) https://www.youtube.com/playlist?list=plfv89tpxltivirwusbcisibagsh1cjr5-
-Grupo I:
-Los "conocidos", los que pudimos encontrar en un medio de comunicación general.
+
+GRUPO I: Las más "conocidas", las que podríamos encontrar en un medio de comunicación general.
 
 --------------------
 
@@ -45,9 +45,8 @@ Los "conocidos", los que pudimos encontrar en un medio de comunicación general.
 118. Cartograms
 
 
-GRUP II
-Habituals i coneguts en àmbits  específics i d’experts. Usats en camps espècies, però no generals.
-
+GRUP II: Habituals i conegudes en àmbits específics i d’experts. Usades en camps específics, però no generals.
+GRUPO II: Habituales y conocidas en àmbitos específicos y de expertos. Usadas en campos específicos, però no generales.
 
 201. Small Multiple
 202. Venn Diagrams
@@ -78,9 +77,10 @@ Habituals i coneguts en àmbits  específics i d’experts. Usats en camps espè
 227. Proportional Symbol Map
 228. Nightingale Chart
 229. Force-Directed Graph
-GRUP III
-Menys coneguts. La majoria desconeguts fins i tot per experts. Poc usats, poc vistos.
 
+
+GRUP III: Menys conegudes. La majoria desconegudes fins i tot per experts. Poc usades, molt específiques.
+GRUPO III: Menos conocidas. La mayoría desconocidas incluso por expertos. Poco usadas, muy específicas.
 
 301. Chord Diagrams
 302. Rain cloud Plots
@@ -104,4 +104,4 @@ Menys coneguts. La majoria desconeguts fins i tot per experts. Poc usats, poc vi
 320. Tile grid Map
 320. UpSet: Visualizing Intersecting Sets
 321. Be Swarm Chart
-322.
+
