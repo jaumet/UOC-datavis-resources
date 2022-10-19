@@ -1,29 +1,28 @@
-﻿Inici: setembre 2021
-Llistat Tècniques Vis
+﻿Asignatura M2.050 / M2.858 Visualització de dades.
+PAC2: Llistat Tècniques Vis
 
 
 (CAT)
 Les tècniques de visualització estan repartides en tres grups. Hi ha una descripció subjectiva d’aquesta divisió. Les agrupacions, per tant, no són estrictes ni cal que ho siguin. En la PAC2 caldrà seleccionar a l’atzar tres tècniques (una de cada grup) per a cada estudiant.
-Podeu contribuir amb més tècniques. Per a comentaris més concrets: jaume nualart jnualart@uoc.edu
+Podeu contribuir amb més tècniques. Per a comentaris més concrets: jaume nualart -> jnualart@uoc.edu
 
 NOTA Per a repassar les técniques possibles es pot fer una mirada a dues fonts:
 1) https://datavizproject.com/#
 2) https://www.youtube.com/playlist?list=PLfv89tPxlTiVIrwuSBCISiBaGSH1CJR5-
-GRUP I: 
-Els més “coneguts”- Els que podríem trobar en un mitjà de comunicació generalista.
+
 
 -----------------------
 (ESP)
 Las técnicas de visualización se distribuyen en tres grupos. Hay una descripción subjetiva de esta división. Las agrupaciones, por lo tanto, no son estrictas o necesitan ser. En PAC2, se seleccionarán tres técnicas (una en cada grupo) para cada estudiante.
-Puedes aportar más técnicas. Para comentarios más específicos: Jaume Nualart JnualArt@uoc.edu
+Puedes aportar más técnicas. Para comentarios más específicos: Jaume Nualart -> jnualArt@uoc.edu
 
 Nota Para revisar las técnicas posibles, puede echar un vistazo a dos fuentes:
 1) https://datavizproject.com/#
 2) https://www.youtube.com/playlist?list=plfv89tpxltivirwusbcisibagsh1cjr5-
-Grupo I:
-Los "conocidos", los que pudimos encontrar en un medio de comunicación general.
 
 --------------------
+GRUP I: 
+Técniques bsiques i popilars;
 
 101. Bar chart
 102. Pie chart
@@ -43,16 +42,16 @@ Los "conocidos", los que pudimos encontrar en un medio de comunicación general.
 116- Heatmap
 117. Dot Density Map
 118. Cartograms
+119. Choropleth Map
 
 
 GRUP II
-Habituals i coneguts en àmbits  específics i d’experts. Usats en camps espècies, però no generals.
-
+Habituals i coneguts en àmbits  específics i d’experts.
 
 201. Small Multiple
 202. Venn Diagrams
 203. Correlation Matrices
-204. Choropleth Map
+204. Force-Directed Graph
 205. Radar Charts
 206. Icon Chart
 207. Dot Matrix Chart
@@ -70,17 +69,16 @@ Habituals i coneguts en àmbits  específics i d’experts. Usats en camps espè
 219. Diagrama de xarxa
 220. Matrix Plot
 221. Gauge diagram
-222. Isotype Chart
-223. Waffle Chart
-224. Waterfall Chart
-225. Slope chart
-226. Candlestick Chart
-227. Proportional Symbol Map
-228. Nightingale Chart
-229. Force-Directed Graph
-GRUP III
-Menys coneguts. La majoria desconeguts fins i tot per experts. Poc usats, poc vistos.
+222. Waffle Chart
+223. Waterfall Chart
+224. Slope chart
+225. Candlestick Chart
+226. Proportional Symbol Map
+227. Nightingale Chart
 
+
+GRUP III
+Menys habituals o més específics
 
 301. Chord Diagrams
 302. Rain cloud Plots
@@ -92,7 +90,7 @@ Menys coneguts. La majoria desconeguts fins i tot per experts. Poc usats, poc vi
 308. Hyperbolic Trees
 309. Isotype & Unit charts
 310. Bullet Graphs
-311. Mavericks and Heretics
+311. Bump chart
 312. Ridgeline Charts
 313. Beeswarm plot
 314. Contour plot
@@ -104,4 +102,4 @@ Menys coneguts. La majoria desconeguts fins i tot per experts. Poc usats, poc vi
 320. Tile grid Map
 320. UpSet: Visualizing Intersecting Sets
 321. Be Swarm Chart
-322.
+322. Spaklines
