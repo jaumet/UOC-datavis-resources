@@ -8,7 +8,7 @@ Podeu contribuir amb més tècniques. Per a comentaris més concrets: jaume nual
 
 NOTA Per a repassar les técniques possibles es pot fer una mirada a dues fonts:
 1) https://datavizproject.com/#
-2) https://www.youtube.com/playlist?list=PLfv89tPxlTiVIrwuSBCISiBaGSH1CJR5-
+2) https://www.youtube.com/watch?v=gFFj22kjlZk&list=PLfv89tPxlTiVIrwuSBCISiBaGSH1CJR5-
 
 
 -----------------------
@@ -18,7 +18,7 @@ Puedes aportar más técnicas. Para comentarios más específicos: Jaume Nualart
 
 Nota Para revisar las técnicas posibles, puede echar un vistazo a dos fuentes:
 1) https://datavizproject.com/#
-2) https://www.youtube.com/playlist?list=plfv89tpxltivirwusbcisibagsh1cjr5-
+2) https://www.youtube.com/watch?v=gFFj22kjlZk&list=PLfv89tPxlTiVIrwuSBCISiBaGSH1CJR5-
 
 --------------------
 GRUP I: 
